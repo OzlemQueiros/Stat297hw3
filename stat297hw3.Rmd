@@ -4,3 +4,8 @@ output: html_document
 ---
 dddd
 
+<<<<<<< HEAD
+=======
+helllo
+mm
+>>>>>>> 0fdcc4e6af13a0c38bcca205aba64619093e555f
