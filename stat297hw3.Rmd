@@ -2,5 +2,4 @@
 title: "stat297hmw3"
 output: html_document
 ---
-
-ciao a t
+Ciao
