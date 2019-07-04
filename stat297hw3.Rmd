@@ -3,5 +3,13 @@ title: "stat297hmw3"
 output: html_document
 ---
 
+<<<<<<< HEAD
 Ciao
 
+=======
+<<<<<<< HEAD
+=======
+helllo
+mm
+>>>>>>> 0fdcc4e6af13a0c38bcca205aba64619093e555f
+>>>>>>> 5d935a1529ee39c6509a676e4b5cd9e92366a8e8
