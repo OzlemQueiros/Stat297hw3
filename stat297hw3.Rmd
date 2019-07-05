@@ -2,4 +2,7 @@
 title: "stat297hmw3"
 output: html_document
 ---
+<<<<<<< HEAD
 J changed again
+
+
